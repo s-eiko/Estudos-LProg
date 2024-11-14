@@ -1,0 +1,1 @@
+Este package explicará como criar interfaces gráficas utilizando a API Swing, que permite criar interfaces mais complexas que o sistema padrão do Java

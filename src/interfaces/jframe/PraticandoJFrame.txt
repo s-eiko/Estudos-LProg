@@ -1,0 +1,12 @@
+Leve em considerção os seguintes métodos de criação de JFrame
+
+setLayout()    -    Monta o layout padrão de um JFrame, por exemplo, 'null' faz com que os componentes, não se sobreponham e não se conflitem com outros componentes
+setDefaultCloseOperation()     -    Método de como será fechado o frame, por exemplo, 'EXIT_ON_CLOSE' sai totalmente do sistema e da RAM, já o 'DISPOSE_ON_CLOSE' só sai da janela atual
+getContentPane().setBackground ()   -   Responsável por pintar a cor de fundo de um JFrame, como por exemplo, 'Color.WHITE'
+setLocationRelativeTo()    -    Deixa o JFrame alinhado em algum ponto da tela, por exemplo, 'null' deixa alinhado no centro
+setIconImage()    -    Altera o ícone da janela (aceita até mesmo imagens png)
+setTitle()     -    Muda o título do JFrame
+setResizable()     -    Deixa a janela, redimensionável (true) ou não (false)
+setSize()   -   Altera o tamanho da janela, sendo passado por parâmetro xe y, no caso tamanho largura e altura respectivamente
+setVisible()    -   Deixando a janela visível (true), ou invisível (false)
+add()   -   Adiciona um componente no JFrame, como um botão ou um combo

@@ -1,0 +1,6 @@
+Existem duas formas de criar exceções personalizadas, sendo elas:
+
+1. Lançando exceções pré-existente no java.lang e customizando sua forma de tratamento
+2. Criando uma exceção com parâmetros escolhidos pelo próprio programador
+
+A pasta excecoes.personalizadas.PExistente conterá exemplos de exceções pré-existentes e a pasta excecoes.personalizadas.Criado conterá exemplos de exceções criadas pelo programador

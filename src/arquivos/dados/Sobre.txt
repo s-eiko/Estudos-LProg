@@ -1,0 +1,1 @@
+Neste package, explicarei como ler arquivos CSV e armazenar seus dados em variáveis java
