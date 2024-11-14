@@ -29,7 +29,7 @@ public class OutrasConfig extends JFrame {
         this.getContentPane().setBackground(Color.cyan); // Definindo cor de fundo
         this.setLocationRelativeTo(null); // Centralizando componentes
 
-        URL icone = getClass().getResource("C:\\Users\\maria\\Documents\\Projetos-Github\\Estudos-LProg\\src\\interfaces\\icone.png"); // Indicando local do ícone
+        URL icone = getClass().getResource("/interfaces/icone.png"); // Indicando local do ícone
         this.setIconImage(new ImageIcon(icone).getImage()); // Adicionando ícone
     }
 }
